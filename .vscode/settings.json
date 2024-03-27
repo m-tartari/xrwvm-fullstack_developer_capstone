@@ -61,7 +61,8 @@
     "editor.tabSize": 4,
     "editor.formatOnSaveMode": "file",
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "eeyore.yapf",
+    "editor.defaultFormatter": "ms-python.flake8",
+    "prettier.printWidth": 80,
     "editor.formatOnType": false
   },
   // json
